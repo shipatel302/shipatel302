@@ -17,7 +17,7 @@
 
 ## The Short Version
 
-> I am a **bioinformatician, data scientist, and statistical modeler** with 3+ years of experience.
+> I am a **bioinformatician, data scientist, and statistical modeler** with 4+ years of experience.
 > I build things that scale, run analyses that hold up under scrutiny,
 > and communicate findings that people actually understand and use.
 
